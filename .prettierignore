@@ -1,0 +1,4 @@
+bun.lock
+src/components/ui
+docs
+tests/fixtures

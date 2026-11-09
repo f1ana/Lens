@@ -1,0 +1,200 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+@import '@fontsource-variable/geist';
+
+/* Every page is dark, so dark: follows the theme, not the OS setting */
+@custom-variant dark (&:where([data-game], [data-game] *));
+
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: 'Geist Variable', sans-serif;
+  --color-ring: var(--ring);
+  --color-highlight: var(--highlight);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.51 0.2 270);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --highlight: oklch(0.51 0.2 270);
+  --radius: 0.625rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: oklch(0.145 0 0);
+    --foreground: oklch(0.985 0 0);
+    --card: oklch(0.205 0 0);
+    --card-foreground: oklch(0.985 0 0);
+    --popover: oklch(0.205 0 0);
+    --popover-foreground: oklch(0.985 0 0);
+    --primary: oklch(0.72 0.14 270);
+    --primary-foreground: oklch(0.145 0 0);
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.269 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    --border: oklch(1 0 0 / 10%);
+    --input: oklch(1 0 0 / 15%);
+    --ring: oklch(0.556 0 0);
+    --highlight: oklch(0.72 0.14 270);
+  }
+}
+
+/* Unlayered, so these win over :root */
+[data-game='landing'] {
+  color-scheme: dark;
+  --background: oklch(0.14 0.02 200);
+  --foreground: oklch(0.97 0.005 200);
+  --card: oklch(0.19 0.03 200);
+  --card-foreground: oklch(0.97 0.005 200);
+  --popover: oklch(0.19 0.03 200);
+  --popover-foreground: oklch(0.97 0.005 200);
+  --primary: oklch(0.68 0.12 192);
+  --primary-foreground: oklch(0.14 0.02 200);
+  --secondary: oklch(0.25 0.04 200);
+  --secondary-foreground: oklch(0.97 0.005 200);
+  --muted: oklch(0.19 0.03 200);
+  --muted-foreground: oklch(0.72 0.03 200);
+  --accent: oklch(0.25 0.04 200);
+  --accent-foreground: oklch(0.97 0.005 200);
+  --destructive: oklch(0.7 0.19 22);
+  --border: oklch(0.32 0.04 200);
+  --input: oklch(0.32 0.04 200);
+  --ring: oklch(0.75 0.15 190);
+  --highlight: oklch(0.75 0.15 190);
+}
+
+[data-game='ship'] {
+  color-scheme: dark;
+  --background: oklch(0.14 0.025 155);
+  --foreground: oklch(0.96 0.015 90);
+  --card: oklch(0.2 0.035 152);
+  --card-foreground: oklch(0.96 0.015 90);
+  --popover: oklch(0.2 0.035 152);
+  --popover-foreground: oklch(0.96 0.015 90);
+  --primary: oklch(0.66 0.15 150);
+  --primary-foreground: oklch(0.14 0.025 155);
+  --secondary: oklch(0.26 0.045 150);
+  --secondary-foreground: oklch(0.96 0.015 90);
+  --muted: oklch(0.2 0.035 152);
+  --muted-foreground: oklch(0.74 0.04 140);
+  --accent: oklch(0.26 0.045 150);
+  --accent-foreground: oklch(0.96 0.015 90);
+  --destructive: oklch(0.68 0.19 25);
+  --border: oklch(0.36 0.06 140);
+  --input: oklch(0.36 0.06 140);
+  --ring: oklch(0.8 0.15 88);
+  --highlight: oklch(0.8 0.15 88);
+}
+
+[data-game='2ship'] {
+  color-scheme: dark;
+  --background: oklch(0.13 0.04 300);
+  --foreground: oklch(0.96 0.015 90);
+  --card: oklch(0.2 0.06 305);
+  --card-foreground: oklch(0.96 0.015 90);
+  --popover: oklch(0.2 0.06 305);
+  --popover-foreground: oklch(0.96 0.015 90);
+  --primary: oklch(0.68 0.18 310);
+  --primary-foreground: oklch(0.13 0.04 300);
+  --secondary: oklch(0.26 0.07 305);
+  --secondary-foreground: oklch(0.96 0.015 90);
+  --muted: oklch(0.2 0.06 305);
+  --muted-foreground: oklch(0.74 0.05 305);
+  --accent: oklch(0.26 0.07 305);
+  --accent-foreground: oklch(0.96 0.015 90);
+  --destructive: oklch(0.68 0.2 20);
+  --border: oklch(0.38 0.09 305);
+  --input: oklch(0.38 0.09 305);
+  --ring: oklch(0.84 0.13 92);
+  --highlight: oklch(0.84 0.13 92);
+}
+
+[data-game='lighthouse'] {
+  color-scheme: dark;
+  --background: oklch(0.16 0.035 225);
+  --foreground: oklch(0.97 0.012 90);
+  --card: oklch(0.23 0.045 222);
+  --card-foreground: oklch(0.97 0.012 90);
+  --popover: oklch(0.23 0.045 222);
+  --popover-foreground: oklch(0.97 0.012 90);
+  --primary: oklch(0.7 0.14 245);
+  --primary-foreground: oklch(0.16 0.035 225);
+  --secondary: oklch(0.29 0.055 220);
+  --secondary-foreground: oklch(0.97 0.012 90);
+  --muted: oklch(0.23 0.045 222);
+  --muted-foreground: oklch(0.76 0.045 210);
+  --accent: oklch(0.29 0.055 220);
+  --accent-foreground: oklch(0.97 0.012 90);
+  --destructive: oklch(0.68 0.2 28);
+  --border: oklch(0.4 0.08 215);
+  --input: oklch(0.4 0.08 215);
+  --ring: oklch(0.84 0.16 90);
+  --highlight: oklch(0.84 0.16 90);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply touch-manipulation font-sans scheme-light-dark;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

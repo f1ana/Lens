@@ -1,0 +1,371 @@
+{
+  "RO_ACCESS_DUNGEONS": {
+    "label": "Dungeon Access",
+    "group": "Access",
+    "kind": "choice",
+    "values": {
+      "0": "Requires Transformation & Song",
+      "1": "Requires Transformation or Song",
+      "2": "Requires Only Transformation",
+      "3": "Requires Only Song",
+      "4": "Open"
+    }
+  },
+  "RO_ACCESS_MAJORA_MASKS_COUNT": {
+    "label": "Majora Access Masks Required",
+    "group": "Access",
+    "kind": "number"
+  },
+  "RO_ACCESS_MAJORA_REMAINS_COUNT": {
+    "label": "Majora Access Remains Required",
+    "group": "Access",
+    "kind": "number"
+  },
+  "RO_ACCESS_MOON_MASKS_COUNT": {
+    "label": "Moon Access Masks Required",
+    "group": "Access",
+    "kind": "number"
+  },
+  "RO_ACCESS_MOON_REMAINS_COUNT": {
+    "label": "Moon Access Remains Required",
+    "group": "Access",
+    "kind": "number"
+  },
+  "RO_ACCESS_TRIALS": {
+    "label": "Trials Access",
+    "group": "Access",
+    "kind": "choice",
+    "values": {
+      "0": "2-6-12-20 Masks",
+      "1": "Requires Associated Remains",
+      "2": "Requires Associated Transformation",
+      "3": "Open"
+    }
+  },
+  "RO_CLOCK_SHUFFLE_PROGRESSIVE": {
+    "label": "Time Progression Mode",
+    "group": "Time",
+    "kind": "choice",
+    "values": {
+      "0": "Random",
+      "1": "Progressive: Ascending",
+      "2": "Progressive: Descending"
+    }
+  },
+  "RO_CLOCK_SHUFFLE": {
+    "label": "Shuffle Time",
+    "group": "Time",
+    "kind": "toggle"
+  },
+  "RO_CLOCK_TERMINAL_TIME": {
+    "label": "Final Hours Start Time",
+    "group": "Time",
+    "kind": "time"
+  },
+  "RO_HINTS_BANK_SIGN": {
+    "label": "Bank Reward",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_BOSS_REMAINS": {
+    "label": "Boss Remains",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_GOSSIP_STONE_STRENGTH": {
+    "label": "Gossip Stone Hint Strength",
+    "group": "Hints",
+    "kind": "number"
+  },
+  "RO_HINTS_GOSSIP_STONES": {
+    "label": "Gossip Stone Static Hint",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_HOOKSHOT": {
+    "label": "Hookshot Location",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_OATH_TO_ORDER": {
+    "label": "Oath to Order",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_PURCHASEABLE": {
+    "label": "Gossip Stone Purchaseable",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_SONG_OF_SOARING": {
+    "label": "Song of Soaring",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_SPIDER_HOUSES": {
+    "label": "Spider House",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_HINTS_TRANSFORMATIONS": {
+    "label": "Transformation Masks",
+    "group": "Hints",
+    "kind": "toggle"
+  },
+  "RO_LOGIC": {
+    "label": "Logic",
+    "group": "General",
+    "kind": "choice",
+    "values": {
+      "0": "Glitchless",
+      "1": "No Logic",
+      "2": "Nearly No Logic",
+      "3": "Vanilla"
+    }
+  },
+  "RO_PLACEMENT_BOSS_KEYS": {
+    "label": "Boss Keys",
+    "group": "Item Placement",
+    "kind": "choice",
+    "values": {
+      "0": "Anywhere",
+      "1": "Own Dungeon",
+      "2": "Start With"
+    }
+  },
+  "RO_PLACEMENT_SMALL_KEYS": {
+    "label": "Small Keys",
+    "group": "Item Placement",
+    "kind": "choice",
+    "values": {
+      "0": "Anywhere",
+      "1": "Own Dungeon",
+      "2": "Start With"
+    }
+  },
+  "RO_PLACEMENT_STRAY_FAIRIES": {
+    "label": "Stray Fairies",
+    "group": "Item Placement",
+    "kind": "choice",
+    "values": {
+      "0": "Anywhere",
+      "1": "Own Dungeon",
+      "2": "Start With"
+    }
+  },
+  "RO_PLENTIFUL_ITEMS": {
+    "label": "Plentiful Items",
+    "group": "General",
+    "kind": "toggle"
+  },
+  "RO_PURCHASE_INFINITE_RUPEES": {
+    "label": "Repeatable Rupee Purchases",
+    "group": "General",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_BARREL_DROPS": {
+    "label": "Barrel Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_BOSS_REMAINS": {
+    "label": "Boss Remains",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_BOSS_SOULS": {
+    "label": "Boss Souls",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_BUTTERFLIES": {
+    "label": "Butterflies",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_COWS": {
+    "label": "Cows",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_CRATE_DROPS": {
+    "label": "Crate Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_ENEMY_DROPS": {
+    "label": "Enemy Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_ENEMY_SOULS": {
+    "label": "Enemy Souls",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_FREESTANDING_ITEMS": {
+    "label": "Freestanding Items",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_FROGS": {
+    "label": "Frogs",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_GOLD_SKULLTULAS": {
+    "label": "Gold Skulltulas",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_GRASS_DROPS": {
+    "label": "Grass Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_HIVE_DROPS": {
+    "label": "Beehive Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_OCARINA_BUTTONS": {
+    "label": "Ocarina Buttons",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_OWL_STATUES": {
+    "label": "Owl Statues",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_POT_DROPS": {
+    "label": "Pot Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SHOPS": {
+    "label": "Shops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SKELETON_KEY": {
+    "label": "Skeleton Key",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SNOWBALL_DROPS": {
+    "label": "Snowball Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SONG_DOUBLE_TIME": {
+    "label": "Song of Double Time",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SONG_INVERTED_TIME": {
+    "label": "Inverted Song of Time",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SONG_SARIA": {
+    "label": "Saria's Song",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SONG_SUN": {
+    "label": "Sun's Song",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_SWIM": {
+    "label": "Swim",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_TINGLE_SHOPS": {
+    "label": "Tingle Maps",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_TRAPS": {
+    "label": "Traps",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_TREE_DROPS": {
+    "label": "Tree Drops",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_TRIFORCE_PIECES": {
+    "label": "Triforce Hunt",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_TYCOON_WALLET": {
+    "label": "Tycoon's Wallet",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SHUFFLE_WONDER_ITEMS": {
+    "label": "Wonder Items",
+    "group": "Shuffle",
+    "kind": "toggle"
+  },
+  "RO_SKULLTULA_SHUFFLED": {
+    "label": "Shuffled Gold Skulltulas",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_SKULLTULA_TOKENS_REQUIRED": {
+    "label": "Required Gold Skulltula Tokens",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_STARTING_CONSUMABLES": {
+    "label": "Consumables Full",
+    "group": "Starting",
+    "kind": "toggle"
+  },
+  "RO_STARTING_HEALTH": {
+    "label": "Health",
+    "group": "Starting",
+    "kind": "number"
+  },
+  "RO_STARTING_MAPS_AND_COMPASSES": {
+    "label": "Maps and Compasses",
+    "group": "Starting",
+    "kind": "toggle"
+  },
+  "RO_STARTING_RUPEES": {
+    "label": "Wallet Full",
+    "group": "Starting",
+    "kind": "toggle"
+  },
+  "RO_STRAY_FAIRIES_MAX": {
+    "label": "Stray Fairies in Pool",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_STRAY_FAIRIES_REQUIRED": {
+    "label": "Required Stray Fairies",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_TRAP_AMOUNT": {
+    "label": "Trap Amount",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_TRIFORCE_PIECES_MAX": {
+    "label": "Shuffled Triforce Pieces",
+    "group": "General",
+    "kind": "number"
+  },
+  "RO_TRIFORCE_PIECES_REQUIRED": {
+    "label": "Required Triforce Pieces",
+    "group": "General",
+    "kind": "number"
+  }
+}

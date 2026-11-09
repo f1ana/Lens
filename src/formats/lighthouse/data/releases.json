@@ -1,0 +1,42 @@
+[
+  {
+    "version": "1.0.0",
+    "name": "Split Rock Alfa",
+    "commit": "f491f080569ef57b1d238683af2022939c3842a6"
+  },
+  {
+    "version": "1.0.1",
+    "name": "Split Rock Bravo",
+    "commit": "4423e0c1a10e70c42301bce2a5fb969964cf3537"
+  },
+  {
+    "version": "1.0.2",
+    "name": "Split Rock Charlie",
+    "commit": "e598cfcc21e21b6ff5cdf533098f22539246c770"
+  },
+  {
+    "version": "1.0.3",
+    "name": "Split Rock Delta",
+    "commit": "d3c35e6c2bbaa4d07fe2858d54e2943cb9944ab8"
+  },
+  {
+    "version": "1.1.0",
+    "name": "Hatteras Alfa",
+    "commit": "9c39b49574388f1656a53a518257f399b5368062"
+  },
+  {
+    "version": "1.2.0",
+    "name": "Montauk Alfa",
+    "commit": "29b5fdb76d208b127f1b23089d1b23b63987af50"
+  },
+  {
+    "version": "1.2.1",
+    "name": "Montauk Bravo",
+    "commit": "c4edf1208837df693bc1772bb89ee47be39032b1"
+  },
+  {
+    "version": "1.2.2",
+    "name": "Montauk Charlie",
+    "commit": "bdb8cd9cc7d499405441d07109c020c7543f813b"
+  }
+]

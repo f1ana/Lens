@@ -1,0 +1,54 @@
+{
+  "0": {
+    "code": "RI_UNKNOWN",
+    "name": "Unknown"
+  },
+  "1": {
+    "code": "RI_EMPTY_HONEYCOMB",
+    "name": "Empty Honeycomb"
+  },
+  "2": {
+    "code": "RI_JIGGY",
+    "name": "Jiggy"
+  },
+  "3": {
+    "code": "RI_JINJO_BLUE",
+    "name": "Blue Jinjo"
+  },
+  "4": {
+    "code": "RI_JINJO_GREEN",
+    "name": "Green Jinjo"
+  },
+  "5": {
+    "code": "RI_JINJO_ORANGE",
+    "name": "Orange Jinjo"
+  },
+  "6": {
+    "code": "RI_JINJO_PINK",
+    "name": "Pink Jinjo"
+  },
+  "7": {
+    "code": "RI_JINJO_YELLOW",
+    "name": "Yellow Jinjo"
+  },
+  "8": {
+    "code": "RI_MOLEHILL",
+    "name": "New Ability"
+  },
+  "9": {
+    "code": "RI_MUMBO_TOKEN",
+    "name": "Mumbo Token"
+  },
+  "10": {
+    "code": "RI_MUSIC_NOTE",
+    "name": "Note"
+  },
+  "11": {
+    "code": "RI_STOP_N_SWOP_EGG",
+    "name": "Mystery Egg"
+  },
+  "12": {
+    "code": "RI_STOP_N_SWOP_KEY",
+    "name": "Mystery Key"
+  }
+}

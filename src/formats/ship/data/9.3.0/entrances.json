@@ -1,0 +1,2390 @@
+{
+  "0": {
+    "source": "KF Outside Deku Tree",
+    "destination": "Deku Tree Entrance",
+    "group": "Kokiri Forest",
+    "type": "Dungeon",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_DEKU_TREE"
+  },
+  "4": {
+    "source": "Death Mountain Trail Outside Dodongo's Cavern",
+    "destination": "Dodongo's Cavern Entrance",
+    "group": "Death Mountain Trail",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_DODONGOS_CAVERN"
+  },
+  "8": {
+    "source": "GF Outside Training Ground",
+    "destination": "Gerudo Training Ground Entrance",
+    "group": "Gerudo Fortress",
+    "type": "Dungeon",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_GERUDO_TRAINING_GROUND"
+  },
+  "12": {
+    "source": "Forest Temple Boss Door",
+    "destination": "Phantom Ganon",
+    "group": "Sacred Forest Meadow",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FOREST_TEMPLE"],
+    "landingScene": "SCENE_FOREST_TEMPLE_BOSS"
+  },
+  "16": {
+    "source": "Lake Hylia Outside Temple",
+    "destination": "Water Temple Entrance",
+    "group": "Lake Hylia",
+    "type": "Dungeon",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_WATER_TEMPLE"
+  },
+  "40": {
+    "source": "Zora's Fountain Outside Jabu Jabu",
+    "destination": "Jabu Jabu's Belly Entrance",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_ZORAS_FOUNTAIN"],
+    "landingScene": "SCENE_JABU_JABU"
+  },
+  "45": {
+    "source": "GY Royal Family's Tomb Entry",
+    "destination": "Royal Family's Tomb",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_ROYAL_FAMILYS_TOMB"
+  },
+  "51": {
+    "source": "Market South Exit",
+    "destination": "Market Entrance North Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_MARKET_ENTRANCE_DAY"
+  },
+  "55": {
+    "source": "Graveyard Outside Temple",
+    "destination": "Shadow Temple Entrance",
+    "group": "Graveyard",
+    "type": "Dungeon",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_SHADOW_TEMPLE"
+  },
+  "59": {
+    "source": "Kak Shooting Gallery Entry",
+    "destination": "Kak Shooting Gallery",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_SHOOTING_GALLERY"
+  },
+  "67": {
+    "source": "LH Lab Entry",
+    "destination": "LH Lab",
+    "group": "Lake Hylia",
+    "type": "Interior",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_LAKESIDE_LABORATORY"
+  },
+  "75": {
+    "source": "GY Near-Hut Grave Entry",
+    "destination": "Shield Grave",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_GRAVE_WITH_FAIRYS_FOUNTAIN"
+  },
+  "79": {
+    "source": "LLR Talon's House Entry",
+    "destination": "Talon's House",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_LON_LON_RANCH"],
+    "landingScene": "SCENE_LON_LON_BUILDINGS"
+  },
+  "83": {
+    "source": "ToT Courtyard Temple Entry",
+    "destination": "Temple of Time Entrance",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_DAY",
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_NIGHT",
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_RUINS"
+    ],
+    "landingScene": "SCENE_TEMPLE_OF_TIME"
+  },
+  "99": {
+    "source": "MK Treasure Chest Game Entry",
+    "destination": "Treasure Chest Game",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_TREASURE_BOX_SHOP"
+  },
+  "103": {
+    "source": "Man-in-Green's House",
+    "destination": "MK Man-in-Green House Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_BACK_ALLEY_HOUSE"],
+    "landingScene": "SCENE_BACK_ALLEY_DAY"
+  },
+  "114": {
+    "source": "Kak Granny's Potion Shop Entry",
+    "destination": "Granny's Potion Shop",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_POTION_SHOP_GRANNY"
+  },
+  "126": {
+    "source": "MK Entrance Guard House Entry",
+    "destination": "Guard House",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_ENTRANCE_DAY",
+      "SCENE_MARKET_ENTRANCE_NIGHT",
+      "SCENE_MARKET_ENTRANCE_RUINS"
+    ],
+    "landingScene": "SCENE_MARKET_GUARD_HOUSE"
+  },
+  "130": {
+    "source": "Colossus Outside Temple",
+    "destination": "Spirit Temple Entrance",
+    "group": "Desert Colossus",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DESERT_COLOSSUS"],
+    "landingScene": "SCENE_SPIRIT_TEMPLE"
+  },
+  "136": {
+    "source": "Zora's Fountain Outside Ice Cavern",
+    "destination": "Ice Cavern Entrance",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_ZORAS_FOUNTAIN"],
+    "landingScene": "SCENE_ICE_CAVERN"
+  },
+  "141": {
+    "source": "Spirit Temple Boss Door",
+    "destination": "Twinrova",
+    "group": "Desert Colossus",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SPIRIT_TEMPLE"],
+    "landingScene": "SCENE_SPIRIT_TEMPLE_BOSS"
+  },
+  "152": {
+    "source": "Kakariko Outside the Well",
+    "destination": "Bottom of the Well Entrance",
+    "group": "Kakariko Village",
+    "type": "Dungeon",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_BOTTOM_OF_THE_WELL"
+  },
+  "156": {
+    "source": "KF House of Twins Entry",
+    "destination": "House of Twins",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_TWINS_HOUSE"
+  },
+  "177": {
+    "source": "Market Entrance North Exit",
+    "destination": "Market South Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_MARKET_ENTRANCE_DAY",
+      "SCENE_MARKET_ENTRANCE_NIGHT",
+      "SCENE_MARKET_ENTRANCE_RUINS"
+    ],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "183": {
+    "source": "Kak Bazaar Entry",
+    "destination": "Kak Bazaar",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_BAZAAR"
+  },
+  "187": {
+    "source": "Child Spawn",
+    "destination": "Link's House",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": ["SCENE_LINKS_HOUSE"],
+    "landingScene": "SCENE_LINKS_HOUSE"
+  },
+  "193": {
+    "source": "KF Shop Entry",
+    "destination": "Kokiri Shop",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_KOKIRI_SHOP"
+  },
+  "197": {
+    "source": "King Dodongo",
+    "destination": "Dodongo's Cavern Boss Door",
+    "group": "Death Mountain Trail",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DODONGOS_CAVERN_BOSS"],
+    "landingScene": "SCENE_DODONGOS_CAVERN"
+  },
+  "201": {
+    "source": "KF Know-It-All House Entry",
+    "destination": "Know-It-All House",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_KNOW_IT_ALL_BROS_HOUSE"
+  },
+  "219": {
+    "source": "Hyrule Field Stairs Exit",
+    "destination": "Kakariko Front Gate",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "228": {
+    "source": "Kakariko Southeast Exit",
+    "destination": "Graveyard Entrance",
+    "group": "Kakariko Village",
+    "type": "Overworld",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "234": {
+    "source": "Hyrule Field River Exit",
+    "destination": "Zora's River Lower Exit",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_ZORAS_RIVER"
+  },
+  "252": {
+    "source": "Lost Woods North Exit",
+    "destination": "Sacred Forest Meadow South Exit",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_SACRED_FOREST_MEADOW"
+  },
+  "258": {
+    "source": "Hyrule Field Fence Exit",
+    "destination": "Lake Hylia North Exit",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "264": {
+    "source": "Zora's River Waterfall Exit",
+    "destination": "Zora's Domain Entrance",
+    "group": "Zora's River",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_RIVER"],
+    "landingScene": "SCENE_ZORAS_DOMAIN"
+  },
+  "270": {
+    "source": "Barinade Blue Warp",
+    "destination": "Jabu Jabu's Belly Blue Warp",
+    "group": "Zora's Fountain",
+    "type": "One Way",
+    "scenes": ["SCENE_JABU_JABU_BOSS"],
+    "landingScene": "SCENE_ZORAS_FOUNTAIN"
+  },
+  "279": {
+    "source": "Hyrule Field Rocky Path",
+    "destination": "Gerudo Valley East Exit",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_GERUDO_VALLEY"
+  },
+  "286": {
+    "source": "Kokiri Forest Upper Exit",
+    "destination": "Lost Woods South Exit",
+    "group": "Kokiri Forest",
+    "type": "Overworld",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "291": {
+    "source": "Haunted Wasteland West Exit",
+    "destination": "Desert Colossus East Exit",
+    "group": "Haunted Wasteland",
+    "type": "Overworld",
+    "scenes": ["SCENE_HAUNTED_WASTELAND"],
+    "landingScene": "SCENE_DESERT_COLOSSUS"
+  },
+  "297": {
+    "source": "Gerudo Valley West Exit",
+    "destination": "Gerudo Fortress East Exit",
+    "group": "Gerudo Valley",
+    "type": "Overworld",
+    "scenes": ["SCENE_GERUDO_VALLEY"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "304": {
+    "source": "Gerudo Fortress Gate Exit",
+    "destination": "Haunted Wasteland East Exit",
+    "group": "Gerudo Fortress",
+    "type": "Overworld",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_HAUNTED_WASTELAND"
+  },
+  "312": {
+    "source": "Market Castle Exit",
+    "destination": "Castle Grounds South Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_HYRULE_CASTLE"
+  },
+  "317": {
+    "source": "Kakariko Guard Gate Exit",
+    "destination": "Death Mountain Trail Bottom Exit",
+    "group": "Kakariko Village",
+    "type": "Overworld",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "327": {
+    "source": "Death Mountain Trail Top Exit",
+    "destination": "Death Mountain Crater Upper Exit",
+    "group": "Death Mountain Trail",
+    "type": "Overworld",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "333": {
+    "source": "Death Mountain Trail Middle Exit",
+    "destination": "Goron City Upper Exit",
+    "group": "Death Mountain Trail",
+    "type": "Overworld",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_GORON_CITY"
+  },
+  "343": {
+    "source": "Hyrule Field Center Exit",
+    "destination": "Lon Lon Ranch Entrance",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_LON_LON_RANCH"
+  },
+  "357": {
+    "source": "Death Mountain Crater Outside Temple",
+    "destination": "Fire Temple Entrance",
+    "group": "Death Mountain Crater",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"],
+    "landingScene": "SCENE_FIRE_TEMPLE"
+  },
+  "361": {
+    "source": "Sacred Forest Meadow Outside Forest Temple",
+    "destination": "Forest Temple Entrance",
+    "group": "Sacred Forest Meadow",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SACRED_FOREST_MEADOW"],
+    "landingScene": "SCENE_FOREST_TEMPLE"
+  },
+  "365": {
+    "source": "MK Shooting Gallery Entry",
+    "destination": "MK Shooting Gallery",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_SHOOTING_GALLERY"
+  },
+  "369": {
+    "source": "Market Temple Exit",
+    "destination": "ToT Courtyard Gossip Stones Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_TEMPLE_OF_TIME_EXTERIOR_DAY"
+  },
+  "373": {
+    "source": "Volvagia",
+    "destination": "Fire Temple Boss Door",
+    "group": "Death Mountain Crater",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FIRE_TEMPLE_BOSS"],
+    "landingScene": "SCENE_FIRE_TEMPLE"
+  },
+  "381": {
+    "source": "Kakariko Front Gate",
+    "destination": "Hyrule Field Stairs Exit",
+    "group": "Kakariko Village",
+    "type": "Overworld",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "385": {
+    "source": "Zora's River Lower Exit",
+    "destination": "Hyrule Field River Exit",
+    "group": "Zora's River",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_RIVER"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "389": {
+    "source": "Lost Woods Bridge West Exit",
+    "destination": "Hyrule Field Wooded Exit",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "393": {
+    "source": "Lake Hylia North Exit",
+    "destination": "Hyrule Field Fence Exit",
+    "group": "Lake Hylia",
+    "type": "Overworld",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "397": {
+    "source": "Gerudo Valley East Exit",
+    "destination": "Hyrule Field Rocky Path",
+    "group": "Gerudo Valley",
+    "type": "Overworld",
+    "scenes": ["SCENE_GERUDO_VALLEY"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "401": {
+    "source": "Death Mountain Trail Bottom Exit",
+    "destination": "Kakariko Guard Gate Exit",
+    "group": "Death Mountain Trail",
+    "type": "Overworld",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "405": {
+    "source": "Graveyard Entrance",
+    "destination": "Kakariko Southeast Exit",
+    "group": "Graveyard",
+    "type": "Overworld",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "413": {
+    "source": "Zora's Domain Entrance",
+    "destination": "Zora's River Waterfall Exit",
+    "group": "Zora's Domain",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_DOMAIN"],
+    "landingScene": "SCENE_ZORAS_RIVER"
+  },
+  "417": {
+    "source": "Zora's Fountain Tunnel Exit",
+    "destination": "Zora's Domain Behind King Zora",
+    "group": "Zora's Fountain",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_FOUNTAIN"],
+    "landingScene": "SCENE_ZORAS_DOMAIN"
+  },
+  "425": {
+    "source": "Sacred Forest Meadow South Exit",
+    "destination": "Lost Woods North Exit",
+    "group": "Sacred Forest Meadow",
+    "type": "Overworld",
+    "scenes": ["SCENE_SACRED_FOREST_MEADOW"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "441": {
+    "source": "Goron City Upper Exit",
+    "destination": "Death Mountain Trail Middle Exit",
+    "group": "Goron City",
+    "type": "Overworld",
+    "scenes": ["SCENE_GORON_CITY"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "445": {
+    "source": "Death Mountain Crater Upper Exit",
+    "destination": "Death Mountain Trail Top Exit",
+    "group": "Death Mountain Crater",
+    "type": "Overworld",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "449": {
+    "source": "Death Mountain Crater Bridge Exit",
+    "destination": "Goron City Darunia's Room Backdoor",
+    "group": "Death Mountain Crater",
+    "type": "Overworld",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"],
+    "landingScene": "SCENE_GORON_CITY"
+  },
+  "461": {
+    "source": "MK Shooting Gallery",
+    "destination": "MK Shooting Gallery Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_SHOOTING_GALLERY"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "465": {
+    "source": "Mask Shop",
+    "destination": "MK Mask Shop Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_HAPPY_MASK_SHOP"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "469": {
+    "source": "Treasure Chest Game",
+    "destination": "MK Treasure Chest Game Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_TREASURE_BOX_SHOP"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "477": {
+    "source": "Lost Woods Underwater Shortcut",
+    "destination": "Zora's River Underwater Shortcut",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_ZORAS_RIVER"
+  },
+  "481": {
+    "source": "Spirit Temple Entrance",
+    "destination": "Colossus Outside Temple",
+    "group": "Desert Colossus",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SPIRIT_TEMPLE"],
+    "landingScene": "SCENE_DESERT_COLOSSUS"
+  },
+  "497": {
+    "source": "Requiem of Spirit",
+    "destination": "Desert Colossus Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_DESERT_COLOSSUS"
+  },
+  "505": {
+    "source": "Lon Lon Ranch Entrance",
+    "destination": "Hyrule Field Center Exit",
+    "group": "Lon Lon Ranch",
+    "type": "Overworld",
+    "scenes": ["SCENE_LON_LON_RANCH"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "509": {
+    "source": "Market Entrance South Exit",
+    "destination": "Hyrule Field Drawbridge Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_MARKET_ENTRANCE_DAY",
+      "SCENE_MARKET_ENTRANCE_NIGHT",
+      "SCENE_MARKET_ENTRANCE_RUINS"
+    ],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "513": {
+    "source": "Kak Bazaar",
+    "destination": "Kak Bazaar Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_BAZAAR"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "517": {
+    "source": "Shadow Temple Entrance",
+    "destination": "Graveyard Outside Temple",
+    "group": "Graveyard",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SHADOW_TEMPLE"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "521": {
+    "source": "Deku Tree Entrance",
+    "destination": "KF Outside Deku Tree",
+    "group": "Kokiri Forest",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DEKU_TREE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "525": {
+    "source": "Lost Woods Bridge East Exit",
+    "destination": "Kokiri Forest Lower Exit",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "529": {
+    "source": "Link's House",
+    "destination": "KF Link's House Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_LINKS_HOUSE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "533": {
+    "source": "Forest Temple Entrance",
+    "destination": "Sacred Forest Meadow Outside Forest Temple",
+    "group": "Sacred Forest Meadow",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FOREST_TEMPLE"],
+    "landingScene": "SCENE_SACRED_FOREST_MEADOW"
+  },
+  "537": {
+    "source": "Gerudo Valley River Exit",
+    "destination": "Lake Hylia River Exit",
+    "group": "Gerudo Valley",
+    "type": "Overworld",
+    "scenes": ["SCENE_GERUDO_VALLEY"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "541": {
+    "source": "Water Temple Entrance",
+    "destination": "Lake Hylia Outside Temple",
+    "group": "Lake Hylia",
+    "type": "Dungeon",
+    "scenes": ["SCENE_WATER_TEMPLE"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "545": {
+    "source": "Jabu Jabu's Belly Entrance",
+    "destination": "Zora's Fountain Outside Jabu Jabu",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_JABU_JABU"],
+    "landingScene": "SCENE_ZORAS_FOUNTAIN"
+  },
+  "549": {
+    "source": "Zora's Domain Behind King Zora",
+    "destination": "Zora's Fountain Tunnel Exit",
+    "group": "Zora's Domain",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_DOMAIN"],
+    "landingScene": "SCENE_ZORAS_FOUNTAIN"
+  },
+  "557": {
+    "source": "Gerudo Fortress East Exit",
+    "destination": "Gerudo Valley West Exit",
+    "group": "Gerudo Fortress",
+    "type": "Overworld",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_GERUDO_VALLEY"
+  },
+  "561": {
+    "source": "TH 1 Torch Cell Turn",
+    "destination": "GF Outskirts",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "565": {
+    "source": "TH 1 Torch Cell",
+    "destination": "GF Near Grotto North",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "569": {
+    "source": "TH Kitchen Corridor Lower",
+    "destination": "GF Near Grotto East",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "573": {
+    "source": "Inside Ganon's Castle Entrance",
+    "destination": "OGC Rainbow Bridge Exit",
+    "group": "Hyrule Castle",
+    "type": "Dungeon",
+    "scenes": ["SCENE_INSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_HYRULE_CASTLE"
+  },
+  "575": {
+    "source": "Ganon's Blue Warp",
+    "destination": "Ganon's Castle Blue Warp",
+    "group": "Hyrule Castle",
+    "type": "One Way",
+    "scenes": ["SCENE_OUTSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_OUTSIDE_GANONS_CASTLE"
+  },
+  "578": {
+    "source": "Dodongo's Cavern Entrance",
+    "destination": "Death Mountain Trail Outside Dodongo's Cavern",
+    "group": "Death Mountain Trail",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DODONGOS_CAVERN"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "582": {
+    "source": "Goron City Darunia's Room Backdoor",
+    "destination": "Death Mountain Crater Bridge Exit",
+    "group": "Goron City",
+    "type": "Overworld",
+    "scenes": ["SCENE_GORON_CITY"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "586": {
+    "source": "Fire Temple Entrance",
+    "destination": "Death Mountain Crater Outside Temple",
+    "group": "Death Mountain Crater",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FIRE_TEMPLE"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "590": {
+    "source": "Phantom Ganon",
+    "destination": "Forest Temple Boss Door",
+    "group": "Sacred Forest Meadow",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FOREST_TEMPLE_BOSS"],
+    "landingScene": "SCENE_FOREST_TEMPLE"
+  },
+  "594": {
+    "source": "Gohma",
+    "destination": "Deku Tree Boss Door",
+    "group": "Kokiri Forest",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DEKU_TREE_BOSS"],
+    "landingScene": "SCENE_DEKU_TREE"
+  },
+  "602": {
+    "source": "Castle Grounds South Exit",
+    "destination": "Market Castle Exit",
+    "group": "Hyrule Castle",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_CASTLE", "SCENE_OUTSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "606": {
+    "source": "ToT Courtyard Gossip Stones Exit",
+    "destination": "Market Temple Exit",
+    "group": "Hyrule Market",
+    "type": "Overworld",
+    "scenes": [
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_DAY",
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_NIGHT",
+      "SCENE_TEMPLE_OF_TIME_EXTERIOR_RUINS"
+    ],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "614": {
+    "source": "Kokiri Shop",
+    "destination": "KF Shop Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_SHOP"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "618": {
+    "source": "Know-It-All House",
+    "destination": "KF Know-It-All House Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KNOW_IT_ALL_BROS_HOUSE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "622": {
+    "source": "Guard House",
+    "destination": "MK Entrance Guard House Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_MARKET_GUARD_HOUSE"],
+    "landingScene": "SCENE_MARKET_ENTRANCE_DAY"
+  },
+  "626": {
+    "source": "KF Link's House Entry",
+    "destination": "Link's House",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_LINKS_HOUSE"
+  },
+  "630": {
+    "source": "Hyrule Field Drawbridge Exit",
+    "destination": "Market Entrance South Exit",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_MARKET_ENTRANCE_DAY"
+  },
+  "638": {
+    "source": "LH Owl Flight",
+    "destination": "Hyrule Field Owl Drop",
+    "group": "Lake Hylia",
+    "type": "One Way",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "642": {
+    "source": "Adult Spawn",
+    "destination": "Temple of Time",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": ["SCENE_TEMPLE_OF_TIME"],
+    "landingScene": "SCENE_HYRULE_FIELD"
+  },
+  "646": {
+    "source": "Lost Woods South Exit",
+    "destination": "Kokiri Forest Upper Exit",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "674": {
+    "source": "MK Potion Shop",
+    "destination": "MK Potion Shop Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_POTION_SHOP_MARKET"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "678": {
+    "source": "Bottom of the Well Entrance",
+    "destination": "Kakariko Outside the Well",
+    "group": "Kakariko Village",
+    "type": "Dungeon",
+    "scenes": ["SCENE_BOTTOM_OF_THE_WELL"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "682": {
+    "source": "TH Kitchen Corridor Upper",
+    "destination": "GF Above GTG",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "690": {
+    "source": "Bongo-Bongo",
+    "destination": "Shadow Temple Boss Door",
+    "group": "Graveyard",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SHADOW_TEMPLE_BOSS"],
+    "landingScene": "SCENE_SHADOW_TEMPLE"
+  },
+  "698": {
+    "source": "TH Steep Slope Cell",
+    "destination": "GF Near Grotto",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "702": {
+    "source": "TH Steep Slope Cell Two Ramps",
+    "destination": "GF Bottom of Lower Vines",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "706": {
+    "source": "TH Double Cell Lower",
+    "destination": "GF Above GTG Directly",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "710": {
+    "source": "TH Double Cell Upper",
+    "destination": "GF Top of Lower Vines Across",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "722": {
+    "source": "TH Kitchen By Corridor",
+    "destination": "GF Top of Lower Vines Near",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "726": {
+    "source": "TH Kitchen Opposite Corridor",
+    "destination": "GF Near GS",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "730": {
+    "source": "TH Break Room",
+    "destination": "GF Below Chest",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "734": {
+    "source": "TH Break Room Corridor",
+    "destination": "GF Above Jail",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "757": {
+    "source": "Twinrova",
+    "destination": "Spirit Temple Boss Door",
+    "group": "Desert Colossus",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SPIRIT_TEMPLE_BOSS"],
+    "landingScene": "SCENE_SPIRIT_TEMPLE"
+  },
+  "761": {
+    "source": "LLR Stables Entry",
+    "destination": "LLR Stables",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_LON_LON_RANCH"],
+    "landingScene": "SCENE_STABLE"
+  },
+  "765": {
+    "source": "Kak Boss House Entry",
+    "destination": "Carpenter Boss House",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_KAKARIKO_CENTER_GUEST_HOUSE"
+  },
+  "769": {
+    "source": "Jabu Jabu's Belly Boss Door",
+    "destination": "Barinade",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_JABU_JABU"],
+    "landingScene": "SCENE_JABU_JABU_BOSS"
+  },
+  "773": {
+    "source": "Fire Temple Boss Door",
+    "destination": "Volvagia",
+    "group": "Death Mountain Crater",
+    "type": "Dungeon",
+    "scenes": ["SCENE_FIRE_TEMPLE"],
+    "landingScene": "SCENE_FIRE_TEMPLE_BOSS"
+  },
+  "777": {
+    "source": "Fishing Pond",
+    "destination": "LH Fishing Pond Entry",
+    "group": "Lake Hylia",
+    "type": "Interior",
+    "scenes": ["SCENE_FISHING_POND"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "781": {
+    "source": "GY Dampe's Hut Entry",
+    "destination": "Dampe's Hut",
+    "group": "Graveyard",
+    "type": "Interior",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_GRAVEKEEPERS_HUT"
+  },
+  "789": {
+    "source": "DMT Great Fairy Entry",
+    "destination": "DMT Great Fairy Fountain",
+    "group": "Death Mountain Trail",
+    "type": "Interior",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"
+  },
+  "796": {
+    "source": "GY Near-Tomb Grave Entry",
+    "destination": "Heart Piece Grave",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_REDEAD_GRAVE"
+  },
+  "808": {
+    "source": "Lake Hylia Underwater Shortcut",
+    "destination": "Zora's Domain Underwater Shortcut",
+    "group": "Lake Hylia",
+    "type": "Overworld",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_ZORAS_DOMAIN"
+  },
+  "828": {
+    "source": "House of Twins",
+    "destination": "KF House of Twins Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_TWINS_HOUSE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "832": {
+    "source": "HC Great Fairy Fountain",
+    "destination": "HC Boulder Crawlspace",
+    "group": "Hyrule Castle",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"],
+    "landingScene": "SCENE_HYRULE_CASTLE"
+  },
+  "837": {
+    "source": "Impa's House Front",
+    "destination": "Kak Impa's House Front Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_IMPAS_HOUSE"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "841": {
+    "source": "Carpenter Boss House",
+    "destination": "Kak Boss House Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_CENTER_GUEST_HOUSE"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "845": {
+    "source": "Granny's Potion Shop",
+    "destination": "Kak Granny's Potion Shop Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_POTION_SHOP_GRANNY"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "849": {
+    "source": "Windmill",
+    "destination": "Kak Windmill Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_WINDMILL_AND_DAMPES_GRAVE"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "853": {
+    "source": "Dampe's Hut",
+    "destination": "GY Dampe's Hut Entry",
+    "group": "Graveyard",
+    "type": "Interior",
+    "scenes": ["SCENE_GRAVEKEEPERS_HUT"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "857": {
+    "source": "Dampe's Grave",
+    "destination": "GY Near-Ledge Grave Entry",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_WINDMILL_AND_DAMPES_GRAVE"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "861": {
+    "source": "Shield Grave",
+    "destination": "GY Near-Hut Grave Entry",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_GRAVE_WITH_FAIRYS_FOUNTAIN"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "865": {
+    "source": "Heart Piece Grave",
+    "destination": "GY Near-Tomb Grave Entry",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_REDEAD_GRAVE"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "869": {
+    "source": "Desert Colossus East Exit",
+    "destination": "Haunted Wasteland West Exit",
+    "group": "Desert Colossus",
+    "type": "Overworld",
+    "scenes": ["SCENE_DESERT_COLOSSUS"],
+    "landingScene": "SCENE_HAUNTED_WASTELAND"
+  },
+  "881": {
+    "source": "ZF Great Fairy Entry",
+    "destination": "ZF Great Fairy Fountain",
+    "group": "Zora's Fountain",
+    "type": "Interior",
+    "scenes": ["SCENE_ZORAS_FOUNTAIN"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"
+  },
+  "888": {
+    "source": "Talon's House",
+    "destination": "LLR Talon's House Entry",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_LON_LON_BUILDINGS"],
+    "landingScene": "SCENE_LON_LON_RANCH"
+  },
+  "892": {
+    "source": "GC Shop Entry",
+    "destination": "Goron Shop",
+    "group": "Goron City",
+    "type": "Interior",
+    "scenes": ["SCENE_GORON_CITY"],
+    "landingScene": "SCENE_GORON_SHOP"
+  },
+  "896": {
+    "source": "ZD Shop Entry",
+    "destination": "Zora Shop",
+    "group": "Zora's Domain",
+    "type": "Interior",
+    "scenes": ["SCENE_ZORAS_DOMAIN"],
+    "landingScene": "SCENE_ZORA_SHOP"
+  },
+  "900": {
+    "source": "Kak Potion Shop Front Entry",
+    "destination": "Kak Potion Shop Front",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_POTION_SHOP_KAKARIKO"
+  },
+  "904": {
+    "source": "MK Potion Shop Entry",
+    "destination": "MK Potion Shop",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_POTION_SHOP_MARKET"
+  },
+  "916": {
+    "source": "ZF Great Fairy Fountain",
+    "destination": "ZF Great Fairy Entry",
+    "group": "Zora's Fountain",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"],
+    "landingScene": "SCENE_ZORAS_FOUNTAIN"
+  },
+  "924": {
+    "source": "Kak Impa's House Front Entry",
+    "destination": "Impa's House Front",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_IMPAS_HOUSE"
+  },
+  "928": {
+    "source": "GV Carpenters' Tent Entry",
+    "destination": "Carpenters' Tent",
+    "group": "Gerudo Valley",
+    "type": "Interior",
+    "scenes": ["SCENE_GERUDO_VALLEY"],
+    "landingScene": "SCENE_CARPENTERS_TENT"
+  },
+  "932": {
+    "source": "TH Dead End Cell",
+    "destination": "GF Below GS",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_THIEVES_HIDEOUT"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "936": {
+    "source": "Gerudo Training Ground Entrance",
+    "destination": "GF Outside Training Ground",
+    "group": "Gerudo Fortress",
+    "type": "Dungeon",
+    "scenes": ["SCENE_GERUDO_TRAINING_GROUND"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "940": {
+    "source": "Haunted Wasteland East Exit",
+    "destination": "Gerudo Fortress Gate Exit",
+    "group": "Haunted Wasteland",
+    "type": "Overworld",
+    "scenes": ["SCENE_HAUNTED_WASTELAND"],
+    "landingScene": "SCENE_GERUDOS_FORTRESS"
+  },
+  "952": {
+    "source": "MK Bazaar",
+    "destination": "MK Bazaar Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_BAZAAR"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "956": {
+    "source": "Bombchu Bowling",
+    "destination": "MK Bombchu Bowling Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_BOMBCHU_BOWLING_ALLEY"],
+    "landingScene": "SCENE_MARKET_DAY"
+  },
+  "960": {
+    "source": "Bombchu Shop",
+    "destination": "MK Bombchu Shop Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_BOMBCHU_SHOP"],
+    "landingScene": "SCENE_BACK_ALLEY_DAY"
+  },
+  "964": {
+    "source": "Zora Shop",
+    "destination": "ZD Shop Entry",
+    "group": "Zora's Domain",
+    "type": "Interior",
+    "scenes": ["SCENE_ZORA_SHOP"],
+    "landingScene": "SCENE_ZORAS_DOMAIN"
+  },
+  "972": {
+    "source": "LH Lab",
+    "destination": "LH Lab Entry",
+    "group": "Lake Hylia",
+    "type": "Interior",
+    "scenes": ["SCENE_LAKESIDE_LABORATORY"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "976": {
+    "source": "Carpenters' Tent",
+    "destination": "GV Carpenters' Tent Entry",
+    "group": "Gerudo Valley",
+    "type": "Interior",
+    "scenes": ["SCENE_CARPENTERS_TENT"],
+    "landingScene": "SCENE_GERUDO_VALLEY"
+  },
+  "980": {
+    "source": "Ice Cavern Entrance",
+    "destination": "Zora's Fountain Outside Ice Cavern",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_ICE_CAVERN"],
+    "landingScene": "SCENE_ZORAS_FOUNTAIN"
+  },
+  "1000": {
+    "source": "OGC Great Fairy Fountain",
+    "destination": "OGC Behind Pillar",
+    "group": "Hyrule Castle",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"],
+    "landingScene": "SCENE_POTION_SHOP_KAKARIKO"
+  },
+  "1004": {
+    "source": "Kak Potion Shop Back Entry",
+    "destination": "Kak Potion Shop Back",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_POTION_SHOP_KAKARIKO"
+  },
+  "1020": {
+    "source": "Goron Shop",
+    "destination": "GC Shop Entry",
+    "group": "Goron City",
+    "type": "Interior",
+    "scenes": ["SCENE_GORON_SHOP"],
+    "landingScene": "SCENE_GORON_CITY"
+  },
+  "1031": {
+    "source": "Barinade",
+    "destination": "Jabu Jabu's Belly Boss Door",
+    "group": "Zora's Fountain",
+    "type": "Dungeon",
+    "scenes": ["SCENE_JABU_JABU_BOSS"],
+    "landingScene": "SCENE_JABU_JABU"
+  },
+  "1035": {
+    "source": "Dodongo's Cavern Boss Door",
+    "destination": "King Dodongo",
+    "group": "Death Mountain Trail",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DODONGOS_CAVERN"],
+    "landingScene": "SCENE_DODONGOS_CAVERN_BOSS"
+  },
+  "1039": {
+    "source": "Deku Tree Boss Door",
+    "destination": "Gohma",
+    "group": "Kokiri Forest",
+    "type": "Dungeon",
+    "scenes": ["SCENE_DEKU_TREE"],
+    "landingScene": "SCENE_DEKU_TREE_BOSS"
+  },
+  "1043": {
+    "source": "Shadow Temple Boss Door",
+    "destination": "Bongo-Bongo",
+    "group": "Graveyard",
+    "type": "Dungeon",
+    "scenes": ["SCENE_SHADOW_TEMPLE"],
+    "landingScene": "SCENE_SHADOW_TEMPLE_BOSS"
+  },
+  "1047": {
+    "source": "Water Temple Boss Door",
+    "destination": "Morpha",
+    "group": "Lake Hylia",
+    "type": "Dungeon",
+    "scenes": ["SCENE_WATER_TEMPLE"],
+    "landingScene": "SCENE_WATER_TEMPLE_BOSS"
+  },
+  "1051": {
+    "source": "Inside Ganon's Castle",
+    "destination": "Ganon's Tower Entrance",
+    "group": "Hyrule Castle",
+    "type": "Dungeon",
+    "scenes": ["SCENE_INSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_GANONS_TOWER"
+  },
+  "1059": {
+    "source": "Morpha",
+    "destination": "Water Temple Boss Door",
+    "group": "Lake Hylia",
+    "type": "Dungeon",
+    "scenes": ["SCENE_WATER_TEMPLE_BOSS"],
+    "landingScene": "SCENE_WATER_TEMPLE"
+  },
+  "1071": {
+    "source": "LLR Stables",
+    "destination": "LLR Stables Entry",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_STABLE"],
+    "landingScene": "SCENE_LON_LON_RANCH"
+  },
+  "1075": {
+    "source": "KF Mido's House Entry",
+    "destination": "Mido's House",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_MIDOS_HOUSE"
+  },
+  "1079": {
+    "source": "KF Saria's House Entry",
+    "destination": "Saria's House",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_SARIAS_HOUSE"
+  },
+  "1083": {
+    "source": "MK Man-in-Green House Entry",
+    "destination": "Man-in-Green's House",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_BACK_ALLEY_HOUSE"
+  },
+  "1091": {
+    "source": "Mido's House",
+    "destination": "KF Mido's House Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_MIDOS_HOUSE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "1095": {
+    "source": "Saria's House",
+    "destination": "KF Saria's House Entry",
+    "group": "Kokiri Forest",
+    "type": "Interior",
+    "scenes": ["SCENE_SARIAS_HOUSE"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "1099": {
+    "source": "Kak Potion Shop Front",
+    "destination": "Kak Potion Shop Front Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_POTION_SHOP_KAKARIKO"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1103": {
+    "source": "GY Near-Ledge Grave Entry",
+    "destination": "Dampe's Grave",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_GRAVEYARD"],
+    "landingScene": "SCENE_WINDMILL_AND_DAMPES_GRAVE"
+  },
+  "1107": {
+    "source": "Kak Windmill Entry",
+    "destination": "Windmill",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_WINDMILL_AND_DAMPES_GRAVE"
+  },
+  "1111": {
+    "source": "Gohma Blue Warp",
+    "destination": "Deku Tree Blue Warp",
+    "group": "Kokiri Forest",
+    "type": "One Way",
+    "scenes": ["SCENE_DEKU_TREE_BOSS"],
+    "landingScene": "SCENE_KOKIRI_FOREST"
+  },
+  "1115": {
+    "source": "DMT Great Fairy Fountain",
+    "destination": "DMT Great Fairy Entry",
+    "group": "Death Mountain Trail",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "1119": {
+    "source": "LH Fishing Pond Entry",
+    "destination": "Fishing Pond",
+    "group": "Lake Hylia",
+    "type": "Interior",
+    "scenes": ["SCENE_LAKE_HYLIA"],
+    "landingScene": "SCENE_FISHING_POND"
+  },
+  "1123": {
+    "source": "Kak Shooting Gallery",
+    "destination": "Kak Shooting Gallery Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_SHOOTING_GALLERY"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1127": {
+    "source": "OGC Rainbow Bridge Exit",
+    "destination": "Inside Ganon's Castle Entrance",
+    "group": "Hyrule Castle",
+    "type": "Dungeon",
+    "scenes": ["SCENE_OUTSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_INSIDE_GANONS_CASTLE"
+  },
+  "1138": {
+    "source": "Temple of Time Entrance",
+    "destination": "ToT Courtyard Temple Entry",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": ["SCENE_TEMPLE_OF_TIME"],
+    "landingScene": "SCENE_TEMPLE_OF_TIME_EXTERIOR_DAY"
+  },
+  "1146": {
+    "source": "King Dodongo Blue Warp",
+    "destination": "Dodongo's Cavern Blue Warp",
+    "group": "Death Mountain Trail",
+    "type": "One Way",
+    "scenes": ["SCENE_DODONGOS_CAVERN_BOSS"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_TRAIL"
+  },
+  "1154": {
+    "source": "DMC Great Fairy Fountain",
+    "destination": "DMC Great Fairy Entry",
+    "group": "Death Mountain Crater",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "1158": {
+    "source": "GF Outskirts",
+    "destination": "TH 1 Torch Cell Turn",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1162": {
+    "source": "GF Near Grotto North",
+    "destination": "TH 1 Torch Cell",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1166": {
+    "source": "GF Near Grotto East",
+    "destination": "TH Kitchen Corridor Lower",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1170": {
+    "source": "GF Above GTG",
+    "destination": "TH Kitchen Corridor Upper",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1174": {
+    "source": "GF Near Grotto",
+    "destination": "TH Steep Slope Cell",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1178": {
+    "source": "GF Bottom of Lower Vines",
+    "destination": "TH Steep Slope Cell Two Ramps",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1182": {
+    "source": "GF Above GTG Directly",
+    "destination": "TH Double Cell Lower",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1186": {
+    "source": "GF Top of Lower Vines Across",
+    "destination": "TH Double Cell Upper",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1190": {
+    "source": "GF Top of Lower Vines Near",
+    "destination": "TH Kitchen By Corridor",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1194": {
+    "source": "GF Near GS",
+    "destination": "TH Kitchen Opposite Corridor",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1198": {
+    "source": "GF Below Chest",
+    "destination": "TH Break Room",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1202": {
+    "source": "GF Above Jail",
+    "destination": "TH Break Room Corridor",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1214": {
+    "source": "DMC Great Fairy Entry",
+    "destination": "DMC Great Fairy Fountain",
+    "group": "Death Mountain Crater",
+    "type": "Interior",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"
+  },
+  "1218": {
+    "source": "OGC Behind Pillar",
+    "destination": "OGC Great Fairy Fountain",
+    "group": "Hyrule Castle",
+    "type": "Interior",
+    "scenes": ["SCENE_OUTSIDE_GANONS_CASTLE"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_MAGIC"
+  },
+  "1238": {
+    "source": "Goron City Tunnel Shortcut",
+    "destination": "Lost Woods Tunnel Shortcut",
+    "group": "Goron City",
+    "type": "Overworld",
+    "scenes": ["SCENE_GORON_CITY"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "1242": {
+    "source": "Zora's River Underwater Shortcut",
+    "destination": "Lost Woods Underwater Shortcut",
+    "group": "Zora's River",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_RIVER"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "1246": {
+    "source": "Hyrule Field Wooded Exit",
+    "destination": "Lost Woods Bridge West Exit",
+    "group": "Hyrule Field",
+    "type": "Overworld",
+    "scenes": ["SCENE_HYRULE_FIELD"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "1250": {
+    "source": "Lost Woods Tunnel Shortcut",
+    "destination": "Goron City Tunnel Shortcut",
+    "group": "Lost Woods",
+    "type": "Overworld",
+    "scenes": ["SCENE_LOST_WOODS"],
+    "landingScene": "SCENE_GORON_CITY"
+  },
+  "1262": {
+    "source": "House of Skulltula",
+    "destination": "Kak Skulltula House Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_HOUSE_OF_SKULLTULA"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1270": {
+    "source": "Bolero of Fire",
+    "destination": "DMC Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "1279": {
+    "source": "Kak Potion Shop Back",
+    "destination": "Kak Potion Shop Back Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_POTION_SHOP_KAKARIKO"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1287": {
+    "source": "MK Bombchu Bowling Entry",
+    "destination": "Bombchu Bowling",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_BOMBCHU_BOWLING_ALLEY"
+  },
+  "1291": {
+    "source": "Royal Family's Tomb",
+    "destination": "GY Royal Family's Tomb Entry",
+    "group": "Graveyard",
+    "type": "Grotto",
+    "scenes": ["SCENE_ROYAL_FAMILYS_TOMB"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "1320": {
+    "source": "MK Bombchu Shop Entry",
+    "destination": "Bombchu Shop",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_BOMBCHU_SHOP"
+  },
+  "1324": {
+    "source": "MK Bazaar Entry",
+    "destination": "MK Bazaar",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_BAZAAR"
+  },
+  "1328": {
+    "source": "MK Mask Shop Entry",
+    "destination": "Mask Shop",
+    "group": "Hyrule Market",
+    "type": "Interior",
+    "scenes": [
+      "SCENE_MARKET_DAY",
+      "SCENE_MARKET_NIGHT",
+      "SCENE_MARKET_RUINS",
+      "SCENE_BACK_ALLEY_DAY",
+      "SCENE_BACK_ALLEY_NIGHT"
+    ],
+    "landingScene": "SCENE_HAPPY_MASK_SHOP"
+  },
+  "1332": {
+    "source": "Ganon's Tower Entrance",
+    "destination": "Inside Ganon's Castle",
+    "group": "Hyrule Castle",
+    "type": "Dungeon",
+    "scenes": ["SCENE_GANONS_TOWER"],
+    "landingScene": "SCENE_INSIDE_GANONS_CASTLE"
+  },
+  "1360": {
+    "source": "Kak Skulltula House Entry",
+    "destination": "House of Skulltula",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_HOUSE_OF_SKULLTULA"
+  },
+  "1364": {
+    "source": "DMT Owl Flight",
+    "destination": "Kakariko Village Owl Drop",
+    "group": "Death Mountain Trail",
+    "type": "One Way",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1376": {
+    "source": "Zora's Domain Underwater Shortcut",
+    "destination": "Lake Hylia Underwater Shortcut",
+    "group": "Zora's Domain",
+    "type": "Overworld",
+    "scenes": ["SCENE_ZORAS_DOMAIN"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "1380": {
+    "source": "Volvagia Blue Warp",
+    "destination": "Fire Temple Blue Warp",
+    "group": "Death Mountain Crater",
+    "type": "One Way",
+    "scenes": ["SCENE_FIRE_TEMPLE_BOSS"],
+    "landingScene": "SCENE_DEATH_MOUNTAIN_CRATER"
+  },
+  "1384": {
+    "source": "Nocturne of Shadow",
+    "destination": "Graveyard Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "1392": {
+    "source": "GF Below GS",
+    "destination": "TH Dead End Cell",
+    "group": "Gerudo Fortress",
+    "type": "Fortress",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"],
+    "landingScene": "SCENE_THIEVES_HIDEOUT"
+  },
+  "1400": {
+    "source": "HC Boulder Crawlspace",
+    "destination": "HC Great Fairy Fountain",
+    "group": "Hyrule Castle",
+    "type": "Interior",
+    "scenes": ["SCENE_HYRULE_CASTLE"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"
+  },
+  "1404": {
+    "source": "Colossus Great Fairy Fountain",
+    "destination": "Colossus Great Fairy Entry",
+    "group": "Desert Colossus",
+    "type": "Interior",
+    "scenes": ["SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"],
+    "landingScene": "SCENE_DESERT_COLOSSUS"
+  },
+  "1408": {
+    "source": "Bongo-Bongo Blue Warp",
+    "destination": "Shadow Temple Blue Warp",
+    "group": "Graveyard",
+    "type": "One Way",
+    "scenes": ["SCENE_SHADOW_TEMPLE_BOSS"],
+    "landingScene": "SCENE_GRAVEYARD"
+  },
+  "1416": {
+    "source": "Colossus Great Fairy Entry",
+    "destination": "Colossus Great Fairy Fountain",
+    "group": "Desert Colossus",
+    "type": "Interior",
+    "scenes": ["SCENE_DESERT_COLOSSUS"],
+    "landingScene": "SCENE_GREAT_FAIRYS_FOUNTAIN_SPELLS"
+  },
+  "1480": {
+    "source": "Kak Impa's House Back Entry",
+    "destination": "Impa's House Back",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"],
+    "landingScene": "SCENE_IMPAS_HOUSE"
+  },
+  "1488": {
+    "source": "LLR Tower Entry",
+    "destination": "LLR Tower",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_LON_LON_RANCH"],
+    "landingScene": "SCENE_LON_LON_BUILDINGS"
+  },
+  "1492": {
+    "source": "LLR Tower",
+    "destination": "LLR Tower Entry",
+    "group": "Lon Lon Ranch",
+    "type": "Interior",
+    "scenes": ["SCENE_LON_LON_BUILDINGS"],
+    "landingScene": "SCENE_LON_LON_RANCH"
+  },
+  "1500": {
+    "source": "Impa's House Back",
+    "destination": "Kak Impa's House Back Entry",
+    "group": "Kakariko Village",
+    "type": "Interior",
+    "scenes": ["SCENE_IMPAS_HOUSE"],
+    "landingScene": "SCENE_KAKARIKO_VILLAGE"
+  },
+  "1504": {
+    "source": "Kokiri Forest Lower Exit",
+    "destination": "Lost Woods Bridge East Exit",
+    "group": "Kokiri Forest",
+    "type": "Overworld",
+    "scenes": ["SCENE_KOKIRI_FOREST"],
+    "landingScene": "SCENE_LOST_WOODS"
+  },
+  "1524": {
+    "source": "Prelude of Light",
+    "destination": "Temple of Time Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_TEMPLE_OF_TIME"
+  },
+  "1536": {
+    "source": "Minuet of Forest",
+    "destination": "SFM Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_SACRED_FOREST_MEADOW"
+  },
+  "1540": {
+    "source": "Serenade of Water",
+    "destination": "Lake Hylia Warp Pad",
+    "group": "One Way",
+    "type": "One Way",
+    "scenes": [],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "1544": {
+    "source": "Phantom Ganon Blue Warp",
+    "destination": "Forest Temple Blue Warp",
+    "group": "Sacred Forest Meadow",
+    "type": "One Way",
+    "scenes": ["SCENE_FOREST_TEMPLE_BOSS"],
+    "landingScene": "SCENE_SACRED_FOREST_MEADOW"
+  },
+  "1548": {
+    "source": "Morpha Blue Warp",
+    "destination": "Water Temple Blue Warp",
+    "group": "Lake Hylia",
+    "type": "One Way",
+    "scenes": ["SCENE_WATER_TEMPLE_BOSS"],
+    "landingScene": "SCENE_LAKE_HYLIA"
+  },
+  "1552": {
+    "source": "Twinrova Blue Warp",
+    "destination": "Spirit Temple Blue Warp",
+    "group": "Desert Colossus",
+    "type": "One Way",
+    "scenes": ["SCENE_SPIRIT_TEMPLE_BOSS"],
+    "landingScene": "SCENE_DESERT_COLOSSUS"
+  },
+  "1792": {
+    "source": "Colossus Grotto Entry",
+    "destination": "Colossus Deku Scrub Grotto",
+    "group": "Desert Colossus",
+    "type": "Grotto",
+    "scenes": ["SCENE_DESERT_COLOSSUS"]
+  },
+  "1793": {
+    "source": "LH Grave Grotto Entry",
+    "destination": "LH Deku Scrub Grotto",
+    "group": "Lake Hylia",
+    "type": "Grotto",
+    "scenes": ["SCENE_LAKE_HYLIA"]
+  },
+  "1794": {
+    "source": "ZR Rock Circle Grotto Entry",
+    "destination": "ZR Deku Scrub Grotto",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_ZORAS_RIVER"]
+  },
+  "1795": {
+    "source": "ZR Raised Boulder Grotto Entry",
+    "destination": "ZR Fairy Grotto",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_ZORAS_RIVER"]
+  },
+  "1796": {
+    "source": "ZR Raised Open Grotto Entry",
+    "destination": "ZR Open Grotto",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_ZORAS_RIVER"]
+  },
+  "1797": {
+    "source": "DMC Hammer Grotto Entry",
+    "destination": "DMC Deku Scrub Grotto",
+    "group": "Death Mountain Crater",
+    "type": "Grotto",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"]
+  },
+  "1798": {
+    "source": "DMC Upper Grotto Entry",
+    "destination": "DMC Upper Grotto",
+    "group": "Death Mountain Crater",
+    "type": "Grotto",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_CRATER"]
+  },
+  "1799": {
+    "source": "GC Lava Grotto Entry",
+    "destination": "GC Deku Scrub Grotto",
+    "group": "Goron City",
+    "type": "Grotto",
+    "scenes": ["SCENE_GORON_CITY"]
+  },
+  "1800": {
+    "source": "DMT Rock Circle Grotto Entry",
+    "destination": "DMT Storms Grotto",
+    "group": "Death Mountain Trail",
+    "type": "Grotto",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"]
+  },
+  "1801": {
+    "source": "DMT Boulder Grotto Entry",
+    "destination": "DMT Cow Grotto",
+    "group": "Death Mountain Trail",
+    "type": "Grotto",
+    "scenes": ["SCENE_DEATH_MOUNTAIN_TRAIL"]
+  },
+  "1802": {
+    "source": "Kak Open Grotto Entry",
+    "destination": "Kak Open Grotto",
+    "group": "Kakariko Village",
+    "type": "Grotto",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"]
+  },
+  "1803": {
+    "source": "Kak Center Grotto Entry",
+    "destination": "Kak Redead Grotto",
+    "group": "Kakariko Village",
+    "type": "Grotto",
+    "scenes": ["SCENE_KAKARIKO_VILLAGE"]
+  },
+  "1804": {
+    "source": "HC Storms Grotto Entry",
+    "destination": "HC Storms Grotto",
+    "group": "Hyrule Castle",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_CASTLE"]
+  },
+  "1805": {
+    "source": "HF Northwest Tree Grotto Entry",
+    "destination": "HF Tektite Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1806": {
+    "source": "HF Stone Bridge Tree Grotto Entry",
+    "destination": "HF Stone Bridge Tree Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1807": {
+    "source": "HF Northwest Boulder Grotto Entry",
+    "destination": "HF Fairy Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1808": {
+    "source": "HF Near Market Boulder Grotto Entry",
+    "destination": "HF Near Market Boulder Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1809": {
+    "source": "HF West Rock Circle Grotto Entry",
+    "destination": "HF Cow Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1810": {
+    "source": "HF Fenced Grotto Entry",
+    "destination": "HF Fenced Deku Scrub Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1811": {
+    "source": "HF South Open Grotto Entry",
+    "destination": "HF Open Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1812": {
+    "source": "HF Southeast Boulder Grotto Entry",
+    "destination": "HF Southeast Grotto",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_HYRULE_FIELD"]
+  },
+  "1813": {
+    "source": "LLR Grotto Entry",
+    "destination": "LLR Deku Scrub Grotto",
+    "group": "Lon Lon Ranch",
+    "type": "Grotto",
+    "scenes": ["SCENE_LON_LON_RANCH"]
+  },
+  "1814": {
+    "source": "SFM Wolfos Grotto Entry",
+    "destination": "SFM Wolfos Grotto",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_SACRED_FOREST_MEADOW"]
+  },
+  "1815": {
+    "source": "SFM Storms Grotto Entry",
+    "destination": "SFM Deku Scrub Grotto",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_SACRED_FOREST_MEADOW"]
+  },
+  "1816": {
+    "source": "SFM Fairy Grotto Entry",
+    "destination": "SFM Fairy Grotto",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_SACRED_FOREST_MEADOW"]
+  },
+  "1817": {
+    "source": "LW North Grotto Entry",
+    "destination": "LW Deku Scrub Grotto",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_LOST_WOODS"]
+  },
+  "1818": {
+    "source": "LW Tunnel Grotto Entry",
+    "destination": "LW Tunnel Grotto",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_LOST_WOODS"]
+  },
+  "1819": {
+    "source": "KF Storms Grotto Entry",
+    "destination": "KF Storms Grotto",
+    "group": "Kokiri Forest",
+    "type": "Grotto",
+    "scenes": ["SCENE_KOKIRI_FOREST"]
+  },
+  "1820": {
+    "source": "ZD Island Grotto Entry",
+    "destination": "ZD Fairy Grotto",
+    "group": "Zora's Domain",
+    "type": "Grotto",
+    "scenes": ["SCENE_ZORAS_DOMAIN"]
+  },
+  "1821": {
+    "source": "GF Storms Grotto Entry",
+    "destination": "GF Fairy Grotto",
+    "group": "Gerudo Fortress",
+    "type": "Grotto",
+    "scenes": ["SCENE_GERUDOS_FORTRESS"]
+  },
+  "1822": {
+    "source": "GV Behind Tent Grotto Entry",
+    "destination": "GV Deku Scrub Grotto",
+    "group": "Gerudo Valley",
+    "type": "Grotto",
+    "scenes": ["SCENE_GERUDO_VALLEY"]
+  },
+  "1823": {
+    "source": "GV Silver Rock Grotto Entry",
+    "destination": "GV Octorok Grotto",
+    "group": "Gerudo Valley",
+    "type": "Grotto",
+    "scenes": ["SCENE_GERUDO_VALLEY"]
+  },
+  "1824": {
+    "source": "LW Meadow Grotto Entry",
+    "destination": "Deku Theater",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_LOST_WOODS"]
+  },
+  "2048": {
+    "source": "Colossus Deku Scrub Grotto",
+    "destination": "Colossus Grotto Entry",
+    "group": "Desert Colossus",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2049": {
+    "source": "LH Deku Scrub Grotto",
+    "destination": "LH Grave Grotto Entry",
+    "group": "Lake Hylia",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2050": {
+    "source": "ZR Deku Scrub Grotto",
+    "destination": "ZR Rock Circle Grotto Entry",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2051": {
+    "source": "ZR Fairy Grotto",
+    "destination": "ZR Raised Boulder Grotto Entry",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_FAIRYS_FOUNTAIN"]
+  },
+  "2052": {
+    "source": "ZR Open Grotto",
+    "destination": "ZR Raised Open Grotto Entry",
+    "group": "Zora's River",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2053": {
+    "source": "DMC Deku Scrub Grotto",
+    "destination": "DMC Hammer Grotto Entry",
+    "group": "Death Mountain Crater",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2054": {
+    "source": "DMC Upper Grotto",
+    "destination": "DMC Upper Grotto Entry",
+    "group": "Death Mountain Crater",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2055": {
+    "source": "GC Deku Scrub Grotto",
+    "destination": "GC Lava Grotto Entry",
+    "group": "Goron City",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2056": {
+    "source": "DMT Storms Grotto",
+    "destination": "DMT Rock Circle Grotto Entry",
+    "group": "Death Mountain Trail",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2057": {
+    "source": "DMT Cow Grotto",
+    "destination": "DMT Boulder Grotto Entry",
+    "group": "Death Mountain Trail",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2058": {
+    "source": "Kak Open Grotto",
+    "destination": "Kak Open Grotto Entry",
+    "group": "Kakariko Village",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2059": {
+    "source": "Kak Redead Grotto",
+    "destination": "Kak Center Grotto Entry",
+    "group": "Kakariko Village",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2060": {
+    "source": "HC Storms Grotto",
+    "destination": "HC Storms Grotto Entry",
+    "group": "Hyrule Castle",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2061": {
+    "source": "HF Tektite Grotto",
+    "destination": "HF Northwest Tree Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2062": {
+    "source": "HF Stone Bridge Tree Grotto",
+    "destination": "HF Stone Bridge Tree Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2063": {
+    "source": "HF Fairy Grotto",
+    "destination": "HF Northwest Boulder Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_FAIRYS_FOUNTAIN"]
+  },
+  "2064": {
+    "source": "HF Near Market Boulder Grotto",
+    "destination": "HF Near Market Boulder Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2065": {
+    "source": "HF Cow Grotto",
+    "destination": "HF West Rock Circle Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2066": {
+    "source": "HF Fenced Deku Scrub Grotto",
+    "destination": "HF Fenced Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2067": {
+    "source": "HF Open Grotto",
+    "destination": "HF South Open Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2068": {
+    "source": "HF Southeast Grotto",
+    "destination": "HF Southeast Boulder Grotto Entry",
+    "group": "Hyrule Field",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2069": {
+    "source": "LLR Deku Scrub Grotto",
+    "destination": "LLR Grotto Entry",
+    "group": "Lon Lon Ranch",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2070": {
+    "source": "SFM Wolfos Grotto",
+    "destination": "SFM Wolfos Grotto Entry",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2071": {
+    "source": "SFM Deku Scrub Grotto",
+    "destination": "SFM Storms Grotto Entry",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2072": {
+    "source": "SFM Fairy Grotto",
+    "destination": "SFM Fairy Grotto Entry",
+    "group": "Sacred Forest Meadow",
+    "type": "Grotto",
+    "scenes": ["SCENE_FAIRYS_FOUNTAIN"]
+  },
+  "2073": {
+    "source": "LW Deku Scrub Grotto",
+    "destination": "LW North Grotto Entry",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2074": {
+    "source": "LW Tunnel Grotto",
+    "destination": "LW Tunnel Grotto Entry",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2075": {
+    "source": "KF Storms Grotto",
+    "destination": "KF Storms Grotto Entry",
+    "group": "Kokiri Forest",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2076": {
+    "source": "ZD Fairy Grotto",
+    "destination": "ZD Island Grotto Entry",
+    "group": "Zora's Domain",
+    "type": "Grotto",
+    "scenes": ["SCENE_FAIRYS_FOUNTAIN"]
+  },
+  "2077": {
+    "source": "GF Fairy Grotto",
+    "destination": "GF Storms Grotto Entry",
+    "group": "Gerudo Fortress",
+    "type": "Grotto",
+    "scenes": ["SCENE_FAIRYS_FOUNTAIN"]
+  },
+  "2078": {
+    "source": "GV Deku Scrub Grotto",
+    "destination": "GV Behind Tent Grotto Entry",
+    "group": "Gerudo Valley",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2079": {
+    "source": "GV Octorok Grotto",
+    "destination": "GV Silver Rock Grotto Entry",
+    "group": "Gerudo Valley",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  },
+  "2080": {
+    "source": "Deku Theater",
+    "destination": "LW Meadow Grotto Entry",
+    "group": "Lost Woods",
+    "type": "Grotto",
+    "scenes": ["SCENE_GROTTOS"]
+  }
+}

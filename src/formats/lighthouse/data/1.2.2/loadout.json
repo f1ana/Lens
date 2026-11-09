@@ -1,0 +1,29 @@
+{
+  "abilities": {
+    "0": "Beak Barge",
+    "1": "Beak Bomb",
+    "2": "Beak Buster",
+    "3": "Camera Control",
+    "4": "Claw Swipe",
+    "5": "Climb",
+    "6": "Eggs",
+    "7": "Feathery Flap",
+    "8": "Flap Flip",
+    "9": "Flight",
+    "10": "Jump Higher",
+    "11": "Rat-a-tat Rap",
+    "12": "Roll",
+    "13": "Shock Jump",
+    "14": "Wading Boots",
+    "15": "Dive",
+    "16": "Talon Trot",
+    "17": "Turbo Talon",
+    "18": "Wonderwing",
+    "19": "First Note Door"
+  },
+  "items": {
+    "13": "Blue Eggs",
+    "15": "Red Feathers",
+    "16": "Gold Feathers"
+  }
+}

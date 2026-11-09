@@ -1,0 +1,65 @@
+{
+  "RO_LOGIC": {
+    "label": "Logic Mode",
+    "values": {
+      "0": "Glitchless",
+      "1": "No Logic"
+    }
+  },
+  "RO_SPAWN_JUNK": {
+    "label": "Spawn Junk For Obtained Checks",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_EMPTY_HONEYCOMBS": {
+    "label": "Shuffle Empty Honeycombs",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_JIGGIES": {
+    "label": "Shuffle Jiggies",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_JINJOS": {
+    "label": "Shuffle Jinjos",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_MOLEHILLS": {
+    "label": "Shuffle Molehills",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_MUMBO_TOKENS": {
+    "label": "Shuffle Mumbo Tokens",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_MUSIC_NOTES": {
+    "label": "Shuffle Music Notes",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  },
+  "RO_SHUFFLE_STOP_N_SWOP": {
+    "label": "Stop n Swop Hunt",
+    "values": {
+      "0": "Off",
+      "1": "On"
+    }
+  }
+}

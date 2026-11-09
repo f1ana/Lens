@@ -1,0 +1,130 @@
+[
+  {
+    "prefix": "KF",
+    "area": "Kokiri Forest"
+  },
+  {
+    "prefix": "LW",
+    "area": "Lost Woods"
+  },
+  {
+    "prefix": "SFM",
+    "area": "Sacred Forest Meadow"
+  },
+  {
+    "prefix": "HF",
+    "area": "Hyrule Field"
+  },
+  {
+    "prefix": "LH",
+    "area": "Lake Hylia"
+  },
+  {
+    "prefix": "GV",
+    "area": "Gerudo Valley"
+  },
+  {
+    "prefix": "GF",
+    "area": "Gerudo Fortress"
+  },
+  {
+    "prefix": "Wasteland",
+    "area": "Haunted Wasteland"
+  },
+  {
+    "prefix": "Colossus",
+    "area": "Desert Colossus"
+  },
+  {
+    "prefix": "Market",
+    "area": "Hyrule Market"
+  },
+  {
+    "prefix": "HC",
+    "area": "Hyrule Castle"
+  },
+  {
+    "prefix": "Kak",
+    "area": "Kakariko Village"
+  },
+  {
+    "prefix": "Graveyard",
+    "area": "Graveyard"
+  },
+  {
+    "prefix": "DMT",
+    "area": "Death Mountain Trail"
+  },
+  {
+    "prefix": "GC",
+    "area": "Goron City"
+  },
+  {
+    "prefix": "DMC",
+    "area": "Death Mountain Crater"
+  },
+  {
+    "prefix": "ZR",
+    "area": "Zora's River"
+  },
+  {
+    "prefix": "ZD",
+    "area": "Zora's Domain"
+  },
+  {
+    "prefix": "ZF",
+    "area": "Zora's Fountain"
+  },
+  {
+    "prefix": "LLR",
+    "area": "Lon Lon Ranch"
+  },
+  {
+    "prefix": "Deku Tree",
+    "area": "Deku Tree"
+  },
+  {
+    "prefix": "Dodongos Cavern",
+    "area": "Dodongo's Cavern"
+  },
+  {
+    "prefix": "Jabu Jabus Belly",
+    "area": "Jabu Jabu's Belly"
+  },
+  {
+    "prefix": "Forest Temple",
+    "area": "Forest Temple"
+  },
+  {
+    "prefix": "Fire Temple",
+    "area": "Fire Temple"
+  },
+  {
+    "prefix": "Water Temple",
+    "area": "Water Temple"
+  },
+  {
+    "prefix": "Spirit Temple",
+    "area": "Spirit Temple"
+  },
+  {
+    "prefix": "Shadow Temple",
+    "area": "Shadow Temple"
+  },
+  {
+    "prefix": "Bottom of the Well",
+    "area": "Bottom of the Well"
+  },
+  {
+    "prefix": "Ice Cavern",
+    "area": "Ice Cavern"
+  },
+  {
+    "prefix": "Gerudo Training Ground",
+    "area": "Gerudo Training Ground"
+  },
+  {
+    "prefix": "Ganon's Castle",
+    "area": "Ganon's Castle"
+  }
+]
